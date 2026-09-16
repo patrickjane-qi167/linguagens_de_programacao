@@ -1,2 +1,2 @@
 # linguagens_de_programacao
-Repositório para as aulas de Linguagem de Programação sobre Java
+Repositorio para as aulas de Linguagem de Programacao sobre Java
