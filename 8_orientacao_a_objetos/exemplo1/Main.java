@@ -1,12 +1,13 @@
 public class Main {
-    int x = 5;
-
     public static void main(String[] args){
-        Main myObj = new Main();        
-        Main myObj2 = new Main();
-        myObj.x = 10;
-        myObj2.x = 50;        
-        System.out.println(myObj.x);
-        System.out.println(myObj2.x);
+        Personagem persona = new Personagem();
+        persona.nome = "Lula";
+        persona.idade = 80;
+        persona.poder = 13;
+
+        System.out.println(persona.nome);
+        System.out.println(persona.idade);
+        System.out.println(persona.poder);
+
     }
 }
