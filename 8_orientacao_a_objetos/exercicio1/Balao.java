@@ -1,5 +1,16 @@
-package 8_orientacao_a_objetos.exercicio1;
-
 public class Balao {
-    
+    int limite_pessoas = 0;
+
+    public static void acender(){ 
+        System.out.println("O Balao Acendeu!");
+    }
+
+    public static void subir(){
+        System.out.println("O Balao Está Sunbindo!")
+    }
+
+    public static void descer(){
+        System.out.println("O Balao Está Descendo!")
+    }
 }
+
