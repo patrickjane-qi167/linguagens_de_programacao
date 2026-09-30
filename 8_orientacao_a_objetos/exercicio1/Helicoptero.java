@@ -8,6 +8,6 @@ public class Helicoptero {
     }
 
     public static void desligarMotor(){
-        System.out.println("O Motor Desligou!")
+        System.out.println("O Motor Desligou!");
     }
 }

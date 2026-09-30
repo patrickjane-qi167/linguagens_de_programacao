@@ -6,11 +6,11 @@ public class Balao {
     }
 
     public static void subir(){
-        System.out.println("O Balao Está Subindo!")
+        System.out.println("O Balao Está Subindo!");
     }
 
     public static void descer(){
-        System.out.println("O Balao Está Descendo!")
+        System.out.println("O Balao Está Descendo!");
     }
 }
 
