@@ -1,5 +1,3 @@
-package array_de_objetos.exercicio1;
-
 public class Veiculo {
   int velocidade = 0;
 
