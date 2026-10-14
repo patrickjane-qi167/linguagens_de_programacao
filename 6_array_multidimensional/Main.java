@@ -1,5 +1,3 @@
-package 6_array_multidimensional;
-
 public class Main {
     public static void main(String[] args){
         int[][]  que = {{0,2,3},{1,4,5}};
