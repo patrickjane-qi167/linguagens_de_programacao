@@ -10,8 +10,4 @@ public class Motor {
     public String getNome() {
         return nome;
     }
-
-    public String roncoDoMotor(){
-        return "RUMMMMMMMMM";
-    }
 }
