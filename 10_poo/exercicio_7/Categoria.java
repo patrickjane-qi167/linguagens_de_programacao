@@ -1,5 +1,3 @@
-package 10_poo.exercicio_7;
-
 public class Categoria {
     String categoria;
 
