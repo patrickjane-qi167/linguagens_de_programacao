@@ -3,11 +3,11 @@ public abstract class Animal {
 
     public abstract void som();
 
-    public void acordar(); {
+    public void acordar() {
         System.out.println("O animal acordou!");
     }
 
-    public void dormir(); {
+    public void dormir() {
         System.out.println("O animal dormiu!");
     }
 }
