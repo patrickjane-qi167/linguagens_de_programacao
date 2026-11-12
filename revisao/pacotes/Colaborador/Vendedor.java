@@ -1,4 +1,4 @@
-package Colaborador;
+package colaborador;
 
 public class Vendedor {
     private String nome;
