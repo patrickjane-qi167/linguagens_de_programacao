@@ -9,7 +9,7 @@ public class Main {
         professor.add(new Professor("Diogo"));
         professor.add(new Professor("Dirlei"));
         professor.add(new Professor("Wagner"));
-
+        
         for(Professor prof : professor) {
             System.out.println("Nome: " + prof.getNome());
         }
